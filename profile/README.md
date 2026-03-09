@@ -1,59 +1,49 @@
 # tecnomancy
 
-> *Any sufficiently advanced technology is indistinguishable from magic.*
-> — Arthur C. Clarke
-
-Clarke disse pelo lado do observador ignorante. A tecnomancy diz pelo lado do praticante.
+> *Tecnomancia: a fusão de magia e tecnologia — onde conhecimento suficientemente profundo de um sistema se torna indistinguível de poder sobre ele.*
 
 ---
 
-```
-magia      =  tecnologia cujo mecanismo é opaco para o observador
-tecnologia =  magia cujo mecanismo foi documentado e democratizado
-```
+## O que é tecnomancy
 
-A distinção entre magia e tecnologia nunca foi sobrenatural.
-Foi sempre **densidade de conhecimento**.
+Magia sempre foi tecnologia mal documentada. Tecnologia é magia cujo mecanismo foi revelado.
+
+A tecnomancy opera nessa fronteira — usando engenharia, código e investigação com a mesma intenção que um mago usa um grimório: **compreender sistemas profundamente o suficiente para dobrá-los**.
+
+Não é metáfora. É postura.
 
 ---
 
-## O Opus Magnum
+## Como se manifesta
 
-O alquimista não buscava literalmente ouro. O Opus Magnum era a transformação do próprio praticante através do processo — o trabalho externo espelhava o trabalho interno.
+**Hacking** — enxergar dimensões do sistema que o designer não viu. O campo de formulário que virou vetor. O protocolo de gerenciamento que virou canal de geolocalização. Ver além do uso previsto é tecnomancia aplicada.
 
-Cada investigação é um Opus:
+**Engenharia agêntica** — criar familiares autônomos que operam além da sua presença. Invocar um agente com intenção precisa e deixá-lo executar o ritual é a forma mais literal de tecnomancia moderna.
 
-```
-Nigredo    →  dados brutos, ruído, sem contexto
-Albedo     →  correlação, separar sinal de ruído
-Citrinitas →  padrão emerge, o mecanismo se revela
-Rubedo     →  conhecimento coagulado em forma permanente
-```
+**OSINT** — transmutação de dados. Transformar um IP em identidade, uma porta aberta em infraestrutura mapeada, ruído em inteligência. O processo alquímico aplicado à informação.
 
-O praticante que completou dez Opus não é o mesmo que completou o primeiro.
+**Código** — o feitiço mais puro. Intenção traduzida em linguagem formal que produz efeito determinístico no mundo. Todo script é um encantamento documentado.
 
 ---
 
 ## As camadas do praticante
 
 ```
-O Mago       →  reconhece correspondências entre planos distintos
-Tesseract    →  enxerga dimensões que o designer não viu
-Alquimia     →  transmuta o que é no que pode ser
-Tecnomancia  →  aplica no plano digital
-Grimório     →  persiste o conhecimento para a próxima sessão
-Familiar     →  extensão que opera além da presença
+O Mago          →  reconhece correspondências entre domínios distintos
+Tesseract       →  enxerga dimensões que o designer não viu
+Alquimia        →  transmuta o que é no que pode ser
+Tecnomancia     →  aplica no plano digital, com código e dados
+Grimório        →  persiste o conhecimento para a próxima sessão
+Familiar        →  extensão autônoma que opera além da presença
 ```
 
 ---
 
 ## O grimório
 
-O grimório transforma magia em tecnologia —
-documenta o mecanismo para que o conhecimento persista e se transmita.
-
 Cada script documentado é um feitiço que virou tecnologia.
 Cada relatório é um padrão que foi opaco e agora tem nome.
+O grimório cresce na direção da clareza.
 A fronteira da magia recua. Mas nunca desaparece — só se move.
 
 ---
@@ -62,8 +52,8 @@ A fronteira da magia recua. Mas nunca desaparece — só se move.
 
 | Repo | Domínio |
 |------|---------|
-| [tecnomancer](https://github.com/tecnomancy/tecnomancer) | OSINT · segurança · scripts · grimório · investigações |
+| [tecnomancer](https://github.com/tecnomancy/tecnomancer) | OSINT · hacking · agentic engineering · grimório |
 
 ---
 
-*Onde o mecanismo é documentado e a fronteira da magia recua.*
+*OSINT · hacking · agentic engineering*
