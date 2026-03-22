@@ -1,50 +1,16 @@
 # tecnomancy
 
-> *Tecnomancy: the fusion of magic and technology — where sufficiently deep knowledge of a system becomes indistinguishable from power over it.*
+> *Everything is visible. Almost nobody looks.*
 
 ---
 
-## What is tecnomancy
+We build tools that look where others do not.
 
-Magic has always been poorly documented technology. Technology is magic whose mechanism has been revealed.
+Public records, open ports, leaked credentials, exposed APIs, forgotten subdomains -- the evidence is already there. Scattered across registries, certificates, and protocol responses that anyone can query but almost nobody reads.
 
-Tecnomancy operates on that frontier — using engineering, code, and investigation with the same intent a mage uses a grimoire: **to understand systems deeply enough to bend them**.
+MAGO collects it, correlates it, and delivers it as structured intelligence. What takes a skilled analyst hours of manual work, our platform executes in seconds -- not through secret access, but through relentless, methodical automation of public sources.
 
-Not a metaphor. A posture.
-
----
-
-## How it manifests
-
-**Hacking** — seeing dimensions of a system the designer did not. The form field that became a vector. The management protocol that became a geolocation channel. Seeing beyond intended use is applied tecnomancy.
-
-**Agentic engineering** — creating autonomous familiars that operate beyond your presence. Invoking an agent with precise intent and letting it execute the ritual is the most literal form of modern tecnomancy.
-
-**OSINT** — data transmutation. Turning an IP into an identity, an open port into mapped infrastructure, noise into intelligence. The alchemical process applied to information.
-
-**Code** — the purest spell. Intent translated into formal language that produces deterministic effects in the world. Every script is a documented incantation.
-
----
-
-## The layers of the practitioner
-
-```
-The Mage         ->  recognizes correspondences across distinct domains
-Tesseract        ->  sees dimensions the designer did not
-Alchemy          ->  transmutes what is into what can be
-Tecnomancy       ->  applies it in the digital plane, with code and data
-Grimoire         ->  persists knowledge for the next session
-Familiar         ->  autonomous extension that operates beyond presence
-```
-
----
-
-## The grimoire
-
-Every documented script is a spell that became technology.
-Every report is a pattern that was opaque and now has a name.
-The grimoire grows toward clarity.
-The frontier of magic recedes. But it never disappears -- it only moves.
+Every technique we use is documented. Every process is repeatable. There is no mystery here -- only discipline applied at scale.
 
 ---
 
@@ -58,4 +24,4 @@ The frontier of magic recedes. But it never disappears -- it only moves.
 
 ---
 
-*OSINT . security engineering . agentic intelligence*
+*Open-source intelligence infrastructure.*
