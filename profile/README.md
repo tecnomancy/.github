@@ -1,59 +1,61 @@
 # tecnomancy
 
-> *Tecnomancia: a fusão de magia e tecnologia — onde conhecimento suficientemente profundo de um sistema se torna indistinguível de poder sobre ele.*
+> *Tecnomancy: the fusion of magic and technology — where sufficiently deep knowledge of a system becomes indistinguishable from power over it.*
 
 ---
 
-## O que é tecnomancy
+## What is tecnomancy
 
-Magia sempre foi tecnologia mal documentada. Tecnologia é magia cujo mecanismo foi revelado.
+Magic has always been poorly documented technology. Technology is magic whose mechanism has been revealed.
 
-A tecnomancy opera nessa fronteira — usando engenharia, código e investigação com a mesma intenção que um mago usa um grimório: **compreender sistemas profundamente o suficiente para dobrá-los**.
+Tecnomancy operates on that frontier — using engineering, code, and investigation with the same intent a mage uses a grimoire: **to understand systems deeply enough to bend them**.
 
-Não é metáfora. É postura.
-
----
-
-## Como se manifesta
-
-**Hacking** — enxergar dimensões do sistema que o designer não viu. O campo de formulário que virou vetor. O protocolo de gerenciamento que virou canal de geolocalização. Ver além do uso previsto é tecnomancia aplicada.
-
-**Engenharia agêntica** — criar familiares autônomos que operam além da sua presença. Invocar um agente com intenção precisa e deixá-lo executar o ritual é a forma mais literal de tecnomancia moderna.
-
-**OSINT** — transmutação de dados. Transformar um IP em identidade, uma porta aberta em infraestrutura mapeada, ruído em inteligência. O processo alquímico aplicado à informação.
-
-**Código** — o feitiço mais puro. Intenção traduzida em linguagem formal que produz efeito determinístico no mundo. Todo script é um encantamento documentado.
+Not a metaphor. A posture.
 
 ---
 
-## As camadas do praticante
+## How it manifests
+
+**Hacking** — seeing dimensions of a system the designer did not. The form field that became a vector. The management protocol that became a geolocation channel. Seeing beyond intended use is applied tecnomancy.
+
+**Agentic engineering** — creating autonomous familiars that operate beyond your presence. Invoking an agent with precise intent and letting it execute the ritual is the most literal form of modern tecnomancy.
+
+**OSINT** — data transmutation. Turning an IP into an identity, an open port into mapped infrastructure, noise into intelligence. The alchemical process applied to information.
+
+**Code** — the purest spell. Intent translated into formal language that produces deterministic effects in the world. Every script is a documented incantation.
+
+---
+
+## The layers of the practitioner
 
 ```
-O Mago          →  reconhece correspondências entre domínios distintos
-Tesseract       →  enxerga dimensões que o designer não viu
-Alquimia        →  transmuta o que é no que pode ser
-Tecnomancia     →  aplica no plano digital, com código e dados
-Grimório        →  persiste o conhecimento para a próxima sessão
-Familiar        →  extensão autônoma que opera além da presença
+The Mage         ->  recognizes correspondences across distinct domains
+Tesseract        ->  sees dimensions the designer did not
+Alchemy          ->  transmutes what is into what can be
+Tecnomancy       ->  applies it in the digital plane, with code and data
+Grimoire         ->  persists knowledge for the next session
+Familiar         ->  autonomous extension that operates beyond presence
 ```
 
 ---
 
-## O grimório
+## The grimoire
 
-Cada script documentado é um feitiço que virou tecnologia.
-Cada relatório é um padrão que foi opaco e agora tem nome.
-O grimório cresce na direção da clareza.
-A fronteira da magia recua. Mas nunca desaparece — só se move.
-
----
-
-## O que mora aqui
-
-| Repo | Domínio |
-|------|---------|
-| [tecnomancer](https://github.com/tecnomancy/tecnomancer) | OSINT · hacking · agentic engineering · grimório |
+Every documented script is a spell that became technology.
+Every report is a pattern that was opaque and now has a name.
+The grimoire grows toward clarity.
+The frontier of magic recedes. But it never disappears -- it only moves.
 
 ---
 
-*OSINT · hacking · agentic engineering*
+## What lives here
+
+| Repo | Domain |
+|------|--------|
+| [tecnomancer](https://github.com/tecnomancy/tecnomancer) | OSINT platform, security tools, agentic intelligence |
+
+**Product:** [mago.team](https://mago.team) -- MAGO Intelligence Grid
+
+---
+
+*OSINT . security engineering . agentic intelligence*
